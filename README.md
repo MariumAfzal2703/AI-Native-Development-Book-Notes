@@ -14,7 +14,7 @@ For **short summaries** and daily updates, follow my [LinkedIn posts](https://ww
 
 ## 📑 Table of Contents
 
-- [Day 1: Preface - Welcome to the AI Native Era](./Day-01-Preface/detailed-summary.md)
+- Day1-Preface
 - More chapters coming soon...
 
 ## 🎯 How to Use This Repository
