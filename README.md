@@ -14,7 +14,7 @@ For **short summaries** and daily updates, follow my [LinkedIn posts](https://ww
 
 ## 📑 Table of Contents
 
-- Day1-Preface
+- https://github.com/MariumAfzal2703/AI-Native-Development-Book-Notes/tree/main/Day1-Preface
 - More chapters coming soon...
 
 ## 🎯 How to Use This Repository
