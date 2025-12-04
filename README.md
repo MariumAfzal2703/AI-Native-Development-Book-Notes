@@ -28,11 +28,4 @@ For **short summaries** and daily updates, follow my [LinkedIn posts](https://ww
 💡 **Note**: This is a learning journey. I'm sharing my understanding and interpretations of the book. Feel free to discuss and share your thoughts!
 
 ⭐ Don't forget to star this repository if you're following along!
-```
 
-**Main changes:**
-- Table of Contents ko proper Markdown link format mein convert kiya
-- Link clickable ban gaya hai
-- LinkedIn username mein @ ke baad dash add kiya (consistent formatting)
-
-Yeh README ab GitHub par acha render hoga aur links properly work karenge! 🎉
