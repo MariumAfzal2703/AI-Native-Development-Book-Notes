@@ -59,3 +59,5 @@ Part 1 gives you the **mindset, strategy, and perspective** to thrive in the AI-
 
 ---
 
+Made by Marium Afzal ❤️
+"AI-native development empowers every developer to turn ideas into real-world apps faster than ever before."
