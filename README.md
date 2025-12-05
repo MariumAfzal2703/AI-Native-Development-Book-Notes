@@ -11,9 +11,9 @@ For **short summaries** and daily updates, follow my [LinkedIn posts](https://ww
 
 ## 📑 Table of Contents
 - [Day 1 - Preface](https://github.com/MariumAfzal2703/AI-Native-Development-Book-Notes/tree/main/Day1-Preface)
-- Day 2 - Introducing AIDD - AI-Driven Development fundamentals
+- [Day 2 - Introducing-AIDD-Final](https://github.com/MariumAfzal2703/AI-Native-Development-Book-Notes/tree/main/Day2-Introducing-AIDD-Final)
 - More chapters coming soon...
-
+  
 ## 🎯 How to Use This Repository
 1. **Read detailed summaries** here on GitHub for comprehensive understanding
 2. **Follow short summaries** on [LinkedIn](https://www.linkedin.com/in/marium-afzal23) for quick daily insights
