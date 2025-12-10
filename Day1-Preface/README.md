@@ -107,3 +107,5 @@ You are entering the **AI-Native Era** — a new world where building software b
 
 **Welcome to the future of software development.**
 Your journey starts now. 🌟
+
+⭐ Don't forget to star this repository if you're following along!
