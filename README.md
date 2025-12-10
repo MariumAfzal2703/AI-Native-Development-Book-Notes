@@ -1,9 +1,6 @@
 # 📚 AI Native Development - Book Notes
 Welcome to my comprehensive notes on **"AI Native Development"**! 
 
-## 📖 About This Repository
-This repository contains detailed summaries and key insights from each chapter of the book. I'm breaking down complex concepts into digestible notes to help developers understand the AI Native approach.
-
 ## 📝 What You'll Find Here
 - **Detailed Chapter Summaries**: In-depth breakdowns of each chapter
 
