@@ -57,7 +57,3 @@ If AI writes 90% of the code, it’s easy to think developers aren’t needed. B
 
 Part 1 gives you the **mindset, strategy, and perspective** to thrive in the AI-driven era. It prepares you to build smarter, scale faster, and seize opportunities that were impossible just a few years ago — even as a solo developer.
 
----
-
-Made by Marium Afzal ❤️
-"AI-native development empowers every developer to turn ideas into real-world apps faster than ever before."
