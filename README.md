@@ -25,5 +25,6 @@ For **short summaries** and daily updates, follow my [LinkedIn posts](https://ww
 
 💡 **Note**: This is a learning journey. I'm sharing my understanding and interpretations of the book. Feel free to discuss and share your thoughts!
 
-⭐ Don't forget to star this repository if you're following along!
+Made by Marium Afzal ❤️
+"AI-native development empowers every developer to turn ideas into real-world apps faster than ever before."
 
