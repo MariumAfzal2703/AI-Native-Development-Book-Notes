@@ -57,3 +57,5 @@ If AI writes 90% of the code, it’s easy to think developers aren’t needed. B
 
 Part 1 gives you the **mindset, strategy, and perspective** to thrive in the AI-driven era. It prepares you to build smarter, scale faster, and seize opportunities that were impossible just a few years ago — even as a solo developer.
 
+⭐ Don't forget to star this repository if you're following along!
+
